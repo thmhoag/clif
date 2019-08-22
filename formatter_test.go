@@ -3,7 +3,7 @@ package clif_test
 import (
 	"bytes"
 	"github.com/stretchr/testify/assert"
-	"github.com/thmhoag/codectl/pkg/clif"
+	"github.com/thmhoag/clif"
 	"testing"
 )
 
